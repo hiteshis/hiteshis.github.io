@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Hiteshi Sharma"
-  avatar           : "/files/headshot.png"
+  avatar           : "https://hiteshis.github.io/files/headshot.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Location"
   employer         :
