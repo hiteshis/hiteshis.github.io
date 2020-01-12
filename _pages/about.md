@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a PhD student in Stochastic Systems and Learning Laboratory (S2L2), under Prof. [Rahul Jain](https://viterbi-web.usc.edu/~rahuljai/Welcome.html). I am interested in reinforcement learning, online learning, stochastic control and high-dimensional statistics. During my PhD, I have been working primarily on approximate dynamic programming for reinforcement learning.  My focus was to design interpretable (not black-box) learning algorithms. I designed dynamic programming based algorithms in conjunction with random feature kernel methods.  I tested these algorithms on [OpenAI gym](https://gym.openai.com/) simulator, locomotion tasks in [MuJoCo](http://mujoco.org/) and  quadrepedal bot movement in [PyBullet](https://github.com/bulletphysics/bullet3/tree/master/examples/pybullet/gym/pybullet_envs/minitaur/envs). We also analyzed these algorithms to provide performance guarantees in probabilty.  
+Hi, I am a PhD student in Stochastic Systems and Learning Laboratory (S2L2), under Prof. [Rahul Jain](https://viterbi-web.usc.edu/~rahuljai/Welcome.html). I am interested in reinforcement learning, online learning, stochastic control and high-dimensional statistics. During my PhD, I have been working primarily on approximate dynamic programming for reinforcement learning.  My focus was to design interpretable (not black-box) learning algorithms. I designed dynamic programming based algorithms in conjunction with random feature kernel methods.  I tested these algorithms on [OpenAI gym](https://gym.openai.com/) simulator, locomotion tasks in [MuJoCo](http://mujoco.org/) and  quadrepedal bot movement in [PyBullet](https://github.com/bulletphysics/bullet3/tree/master/examples/pybullet/gym/pybullet_envs/minitaur/envs). We also analyzed these algorithms to provide performance guarantees in probabilty. Before coming to USC, I had a great time at IIT Bombay. 
 
 Publications
 ========
@@ -19,7 +19,7 @@ states and actions”, *IEEE Transactions on Automatic Control (TAC) (to be subm
 - H.Sharma, Y. Abbasi, G. Theocharous and Z. Wen, “Exploration in Contextual MDPs:An UCRL approach”, *in progress*
 - C. Wei, M. Jafarnia-Jahromi, H. Luo, H. Sharma, R. Jain, "Model-free Reinforcement Learning in Infinite-horizon Average-reward Markov Decision Processes", *submitted*
 - H.Sharma, R. Jain, “A Reinforcement Learning Algorithm for Continuous State MDPs
-with Finite Time Guarantees”, *L4DC 2020(submitted)*
+with Finite Time Guarantees”, *L4DC 2020 (submitted)*
 - H.Sharma, R. Jain, “An approximately optimal algorithm for relative value learning
  for averaged MDPs with continuous states and actions”, *Allerton 2019*
 - H.Sharma, R. Jain, W. Haskell, “Empirical Algorithms for Stochastic Systems with
