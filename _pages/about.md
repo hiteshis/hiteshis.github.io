@@ -48,5 +48,5 @@ Research Internships
 
 
 
-P.S. Many people I have met think that my name is Japanese like a combination of Hitachi and Mitsubhushi but it is actually a sanskrit word. 
+**Interesting Tidbit**: Many people I have met think that my name is Japanese like a combination of Hitachi and Mitsubhishi but it is actually a sanskrit word which means well-wisher. 
 
