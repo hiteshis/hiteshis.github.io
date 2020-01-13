@@ -1,3 +1,7 @@
+---
+permalink: /teach/
+title: "Teaching"
+---
 
 Stochastic Processes, Spring 2016, 2017, 2020
 -------
