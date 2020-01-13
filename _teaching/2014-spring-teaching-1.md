@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching experience"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "Graduate course"
+venue: "EE, USC"
+
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
 
-Heading 1
+Stochastic Processes (EE 512), Spring 2016, 2017, 2020
 ======
 
-Heading 2
+Stochastic Systems and Reinforcement Learning, Fall 2018
 ======
 
-Heading 3
+Linear Algebra, Fall 2017
 ======
